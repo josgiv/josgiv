@@ -84,9 +84,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josgiv&theme=radical&hide_border=true&background=0D1117" alt="Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josgiv&theme=radical&hide_border=true&background=0D1117&mode=daily" alt="Streak" height="175" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josgiv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josgiv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Languages" height="175" />
 </div>
 
 <br/>
