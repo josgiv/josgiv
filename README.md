@@ -28,7 +28,7 @@
 
 <p align="center"> 
   <samp>
-    「 Data Science Student based in <b>Indonesia</b> 🇮🇩 」
+    「 Data Science Student at <b>Bunda Mulia University</b> 」
     <br>
     「 Passionate about turning complex data into actionable insights 」
   </samp>
